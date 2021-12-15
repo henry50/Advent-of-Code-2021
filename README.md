@@ -1,7 +1,7 @@
 # Advent of Code 2021
 This is the first time I've done Advent of Code and I'm doing it in Java.
 
-# Completion calendar
+# Completion Calendar
 (Stolen from [Sycix-HK](https://github.com/Sycix-HK/Advent-of-Code-2021/blob/main/README.md))
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
