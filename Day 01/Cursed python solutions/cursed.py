@@ -1,2 +1,0 @@
-print(len([x for n,x in enumerate([int(x) for x in open("input.txt").read().splitlines()]) if [int(x) for x in open("input.txt").read().splitlines()][n] > [int(x) for x in open("input.txt").read().splitlines()][n-1] and n > 0]))
-print(len([x for n,x in enumerate([int(x) for x in open("input.txt").read().splitlines()]) if sum([int(x) for x in open("input.txt").read().splitlines()][n-2:n+1]) > sum([int(x) for x in open("input.txt").read().splitlines()][n-3:n]) and 1 < n < (len([int(x) for x in open("input.txt").read().splitlines()]) - 1)]))
